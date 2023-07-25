@@ -1,0 +1,10 @@
+* cl-simple-concurrent-jobs
+
+A simple API for running concurrent jobs in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/JordanPowell/cl-simple-concurrent-jobs.git   |
+| commit  | dcce2ba  |
+| systems | cl-simple-concurrent-jobs |
+|---------+-------------------------------------------|
+
